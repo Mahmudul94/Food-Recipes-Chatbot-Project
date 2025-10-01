@@ -1,0 +1,8 @@
+I create my own enviornment 
+python -m venv recipes
+
+to activate my environment 
+.\recipes\Scripts\activate
+
+pinecone Api_key ="pcsk_3wpa3P_2kVPQ2CkVXjBmspDBiPj1qBsK6sfaZ8NzpaG9uzWG3cWiUqYhPTH8CdQfw8TXof"
+
